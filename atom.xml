@@ -6,15 +6,36 @@
   <link href="http://beinglida.github.io/atom.xml" rel="self"/>
   
   <link href="http://beinglida.github.io/"/>
-  <updated>2022-03-28T17:38:10.464Z</updated>
+  <updated>2022-04-10T17:07:40.297Z</updated>
   <id>http://beinglida.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Da Li</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Use PC to control iOS devices</title>
+    <link href="http://beinglida.github.io/2022/04/11/use-pc-to-control-ios-devices/"/>
+    <id>http://beinglida.github.io/2022/04/11/use-pc-to-control-ios-devices/</id>
+    <published>2022-04-10T17:03:06.000Z</published>
+    <updated>2022-04-10T17:07:40.297Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;前言：&lt;br&gt;        由于Android和iOS的系统开放程度不同，网上大多数教程都是教我们用电脑远程控制Android设备，但是用电脑控制iOS设备的视频很少，在此特意出一期电脑控制iOS设备的教程，支持iOS14以下的越狱设备；视频里这部iPhoneSE的显示屏，在被本人拆机换电池的过程中，屏幕意外拆碎了，为了继续控制这部iPhone，只能尝试用电脑控制iPhone；&lt;br&gt;        本次测试的机型是iPhoneSE，系统版本iOS14.6，使用checkra1n越狱，iPhone使用到的插件有screendump+screendumpfix14，电脑连接iPhone的软件是VNC Viewer；&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="remote control" scheme="http://beinglida.github.io/tags/remote-control/"/>
+    
+    <category term="PC" scheme="http://beinglida.github.io/tags/PC/"/>
+    
+    <category term="iOS" scheme="http://beinglida.github.io/tags/iOS/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
